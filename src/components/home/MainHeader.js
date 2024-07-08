@@ -49,7 +49,7 @@ function MainHeader() {
         <section className="col-12 d-flex flex-column align-items-center justify-content-center">
           <p className="brand-name fw-bold my-lg-2 mb-0">e!</p>
           <p className="h1 text-white my-3 text-center">
-            Find the best restaurants, cafés, and bars
+            Find the best restaurants,
           </p>
           <div className="search w-50 d-flex mt-3 align-items-start">
             <select
